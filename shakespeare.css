@@ -93,3 +93,16 @@
     border:10px;
     transition:2s;
 }
+.image{
+    height: 200px;
+    width: 200px;
+}
+.navigation
+{
+    color: darkmagenta;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+
+
