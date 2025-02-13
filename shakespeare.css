@@ -1,21 +1,21 @@
 .HERMIONE{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(74, 13, 135);
+    color: rgb(76, 223, 13);
     size: 5px;
 }
 .firstLady{
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(21, 190, 21);
+    color: rgb(238, 94, 5);
     size: 5px;
 }
 .MAMILLIUS{
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color: rgb(46, 21, 190);
+    color: rgb(184, 235, 15);
     size: 5px;
 }
 .SecondLady{
     font-family:sans-serif;
-    color: rgb(181, 67, 67);
+    color: rgb(31, 43, 101);
     size: 5px;
 }
 .speech{
